@@ -1,0 +1,55 @@
+.home {
+    text-align: center;
+    padding: 30px;
+    background-color: rgb(228, 215, 215);
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    margin: 0;
+    margin-top: 20px;
+    height: 100vh;
+    color: #00000000;
+    background-image: url("https://mnvti.edu.in/wp-content/uploads/2023/05/2-3.png");
+    background-size: cover;
+    background-position: center;
+}
+
+h1{
+    background-color: #ccc;
+    color: black;
+}
+
+.footer {
+    background-color: #333;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+}
+
+.footer-content {
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+.footer p {
+    margin: 0;
+    color: #ccc;
+}
+.le{
+    flex: 1;
+    padding: 5px; /* Add padding for spacing */
+    color: white;
+    border-radius: 10px;
+    background-color: hsl(206, 29%, 67%);
+    width: 12cm;
+    margin-left: 1000px; /* Add margin for spacing */
+    margin-top: 75px;
+}
+.le p{
+    text-align:left;
+    color:black
+}
